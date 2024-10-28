@@ -12,7 +12,7 @@ I'm a recent data science BootCamp graduate excited to apply my new skills and c
 - **Tools:** Git, Google Colab, Jupyter Notebooks
 
 #### 📚 Current Projects & Learning Goals
-- **[Capstone Project](link-to-capstone-repo):** [Describe your BootCamp capstone project here briefly, e.g., “A project predicting stock prices using time series analysis.”]
+- **[Image-Classidication-Using-CNN](https://github.com/JulianSanchez1/Image-Classidication-Using-CNN.git)
 - **Learning Path:** I’m working on solidifying my skills in [mention any area, e.g., supervised learning, natural language processing] and building hands-on projects to showcase my progress.
 
 #### 💬 Let's Connect
