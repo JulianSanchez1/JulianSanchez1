@@ -13,7 +13,7 @@ I'm a recent data science BootCamp graduate excited to apply my new skills and c
 
 #### 📚 Current Projects & Learning Goals
 - **[Image-Classidication-Using-CNN](https://github.com/JulianSanchez1/Image-Classidication-Using-CNN.git)
-- **Learning Path:** I’m working on solidifying my skills in [mention any area, e.g., supervised learning, natural language processing] and building hands-on projects to showcase my progress.
+- **Learning Path:** I’m working on solidifying my skills in [SQl, Web Scraping, Machine Learning] and building hands-on projects to showcase my progress.
 
 #### 💬 Let's Connect
 - **[LinkedIn](www.linkedin.com/in/julian-sanchez-897b49230):** I’d love to connect with others in the field
